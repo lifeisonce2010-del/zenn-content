@@ -1,0 +1,23 @@
+title: "Claude CodeでPremiere Proを動かす"
+summary: "黒い画面に日本語で指示するだけで、Premiere Proが動く。動画編集者のための、コード不要のAI編集自動化入門。導入から書き出しまで、実際に動かして検証した全工程を記録しました。"
+topics: ["premierepro", "mcp", "claudecode", "動画編集", "adobe"]
+published: false
+price: 0
+toc_depth: 2
+chapters:
+- introduction
+- how-it-works
+- prerequisites
+- install-mcp
+- connect
+- first-steps
+- import-media
+- cut-editing
+- telop-graphics
+- audio-bgm
+- effects-color
+- export-render
+- automation
+- troubleshooting
+- safety-limits
+- templates
